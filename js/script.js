@@ -1,7 +1,6 @@
 "use strict";
 
 // ARRAY LISTA DELLA SPESA
-
 let shoppingList = [
     "Olio extravergine d'oliva",
     "Farina",
