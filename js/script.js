@@ -13,3 +13,6 @@ let shoppingList = [
     "Pesce",
     "Pasta",
 ]
+
+// DICHIARAZIONE CONSTANTE HTML SHOPPING ORDERED LIST
+const shoppingListContainer = document.getElementById('shopping_list');
