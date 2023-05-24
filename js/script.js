@@ -16,3 +16,6 @@ let shoppingList = [
 
 // DICHIARAZIONE CONSTANTE HTML SHOPPING ORDERED LIST
 const shoppingListContainer = document.getElementById('shopping_list');
+
+// DICHIARAZIONE VARIABILE CONTATORE INDICI ELEMENTI DELL'ARRAY SHOPPING_LIST
+let shoppingListCounter = 0;
