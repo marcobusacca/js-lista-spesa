@@ -32,6 +32,7 @@ while(shoppingListCounter < shoppingList.length){
 
     // DICHIARAZIONE VARIABILE CONTENENTE TAG HTML "BUTTON"
     let shoppingListCheckbox = `
+        <!--Checkbox Item-->
         <div>
             <input type="checkbox" id="checkbox_${shoppingListCounter+1}">
         </div>
